@@ -1,0 +1,2 @@
+selenium==3.141.0         # Library for web automation
+openai==0.12.5            # OpenAI API library
